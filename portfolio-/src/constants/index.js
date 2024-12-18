@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = 'I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technology like React, as well as back-end technologies like Node.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that deliver exceptional user experiences.';
 
-export const ABOUT_TEXT = 'I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.';
+export const ABOUT_TEXT = 'An aspiring engineer with knowledge in software engineering practices such as coding, testing, code reviews, code comments, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely.';
 
 export const PROJECTS = [
   {
@@ -33,13 +33,13 @@ export const PROJECTS = [
     title: "Bluetooth Controlled Robotic Arm",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "This is basically a Bluetooth controlled robotic arm with HC-05 Bluetooth module. You can send the signal from the mobile application and the HC-05 and PWM module operates the arm according to the commands given. This project showcases the expertise in embedded system.",
     technologies: ["Arduino UNO", "Arduino IDE", "Servos"],
   },
 ];
 
 export const CONTACT = {
-  address: "2/723/3B, BHARATHIYAR STREET, TIRUPUR",
+  address: "TIRUPUR, TAMILNADU",
   phoneNo: "+91 9597095553",
   email: "kishorekishore9725@gmail.com",
 };
